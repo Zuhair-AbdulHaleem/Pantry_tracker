@@ -92,7 +92,7 @@ This project is an Pantry Tracker specifically designed for food items, develope
 
 ## Live Demo
 
-Check out the live demo deployed on Vercel: [\[Click Here!\]](pantry-tracker-zuhair.vercel.app/)
+Check out the live demo deployed on Vercel: [\[Click Here!\]](https://pantry-tracker-zuhair.vercel.app/)
 
 
 ## Getting Started

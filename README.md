@@ -2,11 +2,8 @@
 
 ## Project Overview
 
-This project is an Pantry Tracker specifically designed for food items, developed as part of the Headstarter AI Fellowship. It features real-time inventory tracking and smart recipe suggestions based on available ingredients. The system allows users to efficiently manage their pantry, reduce food waste, and ensure they always have the necessary ingredients on hand.
+This project is an Pantry Tracker specifically designed for food items, developed as part of the Software Engineering Final Project. It features real-time inventory tracking and smart recipe suggestions based on available ingredients. The system allows users to efficiently manage their pantry, reduce food waste, and ensure they always have the necessary ingredients on hand.
 
-## Tasks
-
-![Tasks](image.png)
 
 ## Key Features
 
@@ -95,18 +92,15 @@ This project is an Pantry Tracker specifically designed for food items, develope
 
 ## Live Demo
 
-Check out the live demo deployed on Vercel: [\[Click Here!\]](https://pantry-tracker-ashy-six.vercel.app/)
+Check out the live demo deployed on Vercel: [\[Click Here!\]](pantry-tracker-zuhair.vercel.app/)
 
 
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 
-```bash
-git clone https://github.com/aishwaryamensinkai/Pantry-Tracker.git
-```
 
 2. Navigate to the project directory:
 
@@ -178,11 +172,6 @@ npm run build
 
 Contributions, issues, and feature requests are welcome! Feel free to raise it.
 
-## Acknowledgments
-
-- Headstarter AI Fellowship for the opportunity and support
-- LLAMA for providing the powerful API
-- All contributors and reviewers
 
 ## Resources
 
@@ -230,11 +219,7 @@ The file structure is
   └── tailwind.config.js
   ```
 
-- To include the tree structure of the project install tree by using command in mac
-  ```bash
-  brew install tree
-  tree -L 5 -I node_modules
-  ```
+
 - How to configure Google Analytics watch this video https://www.youtube.com/watch?v=Z3p6qeU76V0
 
 - Use this link to test Pingdom Website Speed Test https://tools.pingdom.com/#644b651b43400000
@@ -243,4 +228,4 @@ The file structure is
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out  [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

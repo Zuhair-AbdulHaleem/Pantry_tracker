@@ -1,3 +1,5 @@
 node_modules
 pantry-tracker/
+
 .next/cache
+.next

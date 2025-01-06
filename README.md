@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an Pantry Tracker specifically designed for food items, developed as part of the Software Engineering Final Project. It features real-time inventory tracking and smart recipe suggestions based on available ingredients. The system allows users to efficiently manage their pantry, reduce food waste, and ensure they always have the necessary ingredients on hand.
+This project is an Pantry Tracker specifically designed for food items. It features real-time inventory tracking and smart recipe suggestions based on available ingredients. The system allows users to efficiently manage their pantry, reduce food waste, and ensure they always have the necessary ingredients on hand.
 
 
 ## Key Features

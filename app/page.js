@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 import { app } from "./firebase/config";
 import Navbar from "./components/Navbar";
 import { ToastContainer } from "react-toastify";
-
+import Link from 'next/link';
 const Home = () => {
   const [user, setUser] = useState(null);
   const router = useRouter();
@@ -36,15 +36,14 @@ const Home = () => {
         <main className="main">
           <div className="hero">
             <div className="content">
-              <h1 className="title">Software Engineering Final Project- Pantry Tracker!</h1>
+              <h1 className="title">Pantry Tracker!</h1>
               <p className="subtitle">
                 Zuhair Abdul Haleem
-                <br /> Safdar Nizam
-                <br /> Fatemeh Fogh
-                <br /> Kartik Bharatapu
-                <br/> Sai Santosh Vasamsetti
+                
                 
               </p>
+              
+
               <p className="description">
                 Track and manage your pantry items with ease. Our app offers a
                 comprehensive suite of features designed to simplify your
